@@ -1,0 +1,501 @@
+﻿Rank,Artist,AlbumTitle,Genre,ReleaseYear,ReleaseDecade
+1,Marvin Gaye,What's Going On?,R&B,1971,1970s
+2,Beach Boys,Pet Sounds,Rock,1966,1960s
+3,Joni Mitchell,Blue,Alternative,1971,1970s
+4,Stevie Wonder,Songs In The Key Of Life,R&B,1976,1970s
+5,Beatles,Abbey Road,Pop,1969,1960s
+6,Nirvana,Nevermind,Alternative,1991,1990s
+7,Fleetwood Mac,Rumours,Rock,1977,1970s
+8,Prince & The Revoultion,Purple Rain,Alternative,1984,1980s
+9,Bob Dylan,Blood On The Tracks,Rock,1975,1970s
+10,Lauryn Hill,The Miseducation Of Lauryn Hill,Hip Hop,1998,1990s
+11,Beatles,Revolver,Pop,1966,1960s
+12,Michael Jackson,Thriller,Pop,1982,1980s
+13,Aretha Franklin,I Never Loved A Man The Way I Love You,R&B,1967,1960s
+14,Rolling Stones,Exile On Main Street,Rock,1972,1970s
+15,Public Enemy,It Takes A Nation Of Millions To Hold Us Back,Hip Hop,1988,1980s
+16,Clash,London Calling,Alternative,1979,1970s
+17,Kanye West,My Beautiful Dark Twisted Fantasy,Hip Hop,2010,2010s
+18,Bob Dylan,Highway 61 Revisited,Rock,1965,1960s
+19,Kendrick Lamar,To Pimp A Butterfly,Hip Hop,2015,2010s
+20,Radiohead,Kid A,Alternative,2000,2000s
+21,Bruce Springsteen,Born To Run,Rock,1975,1970s
+22,Notorious B.I.G.,Ready To Die,Hip Hop,1994,1990s
+23,Velvet Underground & Nico,Velvet Underground & Nico,Rock,1967,1960s
+24,Beatles,Sgt. Pepper's Lonely Hearts Club Band,Pop,1967,1960s
+25,Carole King,Tapestry,Pop,1971,1970s
+26,Patti Smith,Horses,Alternative,1975,1970s
+27,Wu-Tang Clan,Enter The Wu-Tang (36 Chambers),Hip Hop,1993,1990s
+28,D'Angelo,Voodoo,R&B,2000,2000s
+29,Beatles,Beatles,Pop,1968,1960s
+30,Jimi Hendrix Experience,Are You Experienced,Rock,1967,1960s
+31,Miles Davis,Kind Of Blue,Jazz,1959,1950s
+32,Beyonce,Lemonade,R&B,2016,2010s
+33,Amy Winehouse,Back To Black,R&B,2006,2000s
+34,Stevie Wonder,Innervisions,R&B,1973,1970s
+35,Beatles,Rubber Soul,Pop,1965,1960s
+36,Michael Jackson,Off The Wall,Pop,1979,1970s
+37,Dr. Dre,The Chronic,Hip Hop,1992,1990s
+38,Bob Dylan,Blonde On Blonde,Rock,1966,1960s
+39,Talking Heads,Remain In Light,Alternative,1980,1980s
+40,David Bowie,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars,Alternative,1972,1970s
+41,Rolling Stones,Let It Bleed,Rock,1969,1960s
+42,Radiohead,OK Computer,Alternative,1997,1990s
+43,A Tribe Called Quest,The Low End Theory,Hip Hop,1991,1990s
+44,NAS,Illmatic,Hip Hop,1994,1990s
+45,Prince,Sign O' The Times,Alternative,1987,1980s
+46,Paul Simon,Graceland,Rock,1986,1980s
+47,Ramones,Ramones,Alternative,1976,1970s
+48,Bob Marley & The Wailers,Legend,Reggae,1984,1980s
+49,Outkast,Aquemini,Hip Hop,1998,1990s
+50,Jay-Z,The Blueprint,Hip Hop,2001,2000s
+51,Chuck Berry,The Great Twenty-Eight,Rock,1982,1980s
+52,David Bowie,Station To Station,Alternative,1976,1970s
+53,Jimi Hendrix Experience,Electric Ladyland,Rock,1968,1960s
+54,James Brown,Star Time,R&B,1991,1990s
+55,Pink Floyd,The Dark Side Of The Moon,Rock,1973,1970s
+56,Liz Phair,Exile In Guyville,Alternative,1993,1990s
+57,The Band,The Band,Country,1969,1960s
+58,Led Zeppelin,Led Zeppelin IV,Rock,1971,1970s
+59,Stevie Wonder,Talking Book,R&B,1972,1970s
+60,Van Morrison,Astral Weeks,Rock,1968,1960s
+61,Eric B & Rakim,Paid In Full,Hip Hop,1987,1980s
+62,Guns N Roses,Appetite For Destruction,Alternative,1987,1980s
+63,Steely Dan,Aja,Rock,1977,1970s
+64,Outkast,Stankonia,Hip Hop,2000,2000s
+65,James Brown,Live At The Apollo,R&B,1963,1960s
+66,John Coltrane,A Love Supreme,Jazz,1965,1960s
+67,Jay-Z,Reasonable Doubt,Hip Hop,1996,1990s
+68,Kate Bush,Hounds Of Love,Alternative,1985,1980s
+69,Alanis Morissette,Jagged Little Pill,Alternative,1995,1990s
+70,NWA,Straight Outta Compton,Hip Hop,1988,1980s
+71,Bob Marley & The Wailers,Exodus,Reggae,1977,1970s
+72,Neil Young,Harvest,Country,1972,1970s
+73,My Bloody Valentine,Loveless,Alternative,1991,1990s
+74,Kanye West,The College Dropout,Hip Hop,2004,2000s
+75,Aretha Franklin,Lady Soul,R&B,1968,1960s
+76,Curtis Mayfield,Superfly,R&B,1972,1970s
+77,Who,Who's Next,Rock,1971,1970s
+78,Elvis Presley,The Sun Sessions,Pop,1976,1970s
+79,Frank Ocean,Blonde,R&B,2016,2010s
+80,Sex Pistols,"Never Mind The Bollocks, Here's The Sex Pistols",Alternative,1977,1970s
+81,Beyonce,Beyonce,R&B,2013,2010s
+82,Sly & The Family Stone,There's A Riot Goin' On,R&B,1971,1970s
+83,Dusty Springfield,Dusty In Memphis,R&B,1969,1960s
+84,AC/DC,Back In Black,Alternative,1980,1980s
+85,John Lennon/Plastic Ono Band,John Lennon/Plastic Ono Band,Pop,1970,1970s
+86,Doors,Doors,Rock,1967,1960s
+87,Miles Davis,Bitches Brew,Jazz,1970,1970s
+88,David Bowie,Hunky Dory,Alternative,1971,1970s
+89,Erykah Badu,Baduizm,R&B,1997,1970s
+90,Neil Young,After The Gold Rush,Rock,1970,1970s
+91,Bruce Springsteen,Darkness On The Edge Of Town,Rock,1978,1970s
+92,Jimi Hendrix Experience,Axis: Bold As Love,Rock,1967,1960s
+93,Missy Elliott,Supa Dupa Fly,Hip Hop,1997,1990s
+94,Stooges,Funhouse,Rock,1970,1970s
+95,Drake,Take Care,Hip Hop,2011,2010s
+96,REM,Automatic For The People,Alternative,1992,1990s
+97,Metallica,Master Of Puppets,Alternative,1986,1980s
+98,Lucinda Williams,Car Wheels On A Gravel Road,Country,1998,1990s
+99,Taylor Swift,Red,Pop,2012,2010s
+100,The Band,Music From Big Pink,Country,1968,1960s
+101,Led Zeppelin,Led Zeppelin,Rock,1969,1960s
+102,Clash,Clash,Alternative,1977,1970s
+103,De La Soul,3 Feet High And Rising,Hip Hop,1989,1980s
+104,Rolling Stones,Sticky Fingers,Rock,1971,1970s
+105,Allman Brothers Band,At Fillmore East,Rock,1971,1970s
+106,Hole,Live Through This,Alternative,1994,1990s
+107,Television,Marquee Moon,Alternative,1977,1970s
+108,Fiona Apple,When The Pawn…,Alternative,1999,1990s
+109,Lou Reed,Transformer,Rock,1972,1970s
+110,Joni Mitchell,Court And Spark,Alternative,1974,1970s
+111,Janet Jackson,Control,Pop,1986,1980s
+112,Elton John,Goodbye Yellow Brick Road,Pop,1973,1970s
+113,Smiths,The Queen Is Dead,Alternative,1986,1980s
+114,Strokes,Is This It,Alternative,2001,2000s
+115,Kendrick Lamar,"Good Kid, M.A.A.D. City",Hip Hop,2012,2010s
+116,Cure,Disintegration,Alternative,1989,1980s
+117,Kanye West,Late Registration,Hip Hop,2005,2000s
+118,Eagles,Hotel California,Rock,1976,1970s
+119,Sly & The Family Stone,Stand!,R&B,1969,1960s
+120,Van Morrison,Moondance,Rock,1970,1970s
+121,Elvis Costello & The Attractions,This Year's Model,Rock,1978,1970s
+122,Nine Inch Nails,The Downward Spiral,Alternative,1994,1990s
+123,Led Zeppelin,Led Zeppelin II,Rock,1969,1960s
+124,U2,Achtung Baby!,Rock,1991,1990s
+125,Beastie Boys,Paul's Boutique,Hip Hop,1989,1980s
+126,Mary J Blige,My Life,R&B,1994,1990s
+127,Ray Charles,Modern Sounds In Country And Western Music,R&B,1962,1960s
+128,Queen,A Night At The Opera,Rock,1975,1970s
+129,Pink Floyd,The Wall,Rock,1979,1970s
+130,Prince,1999,Alternative,1982,1980s
+131,Portishead,Dummy,Alternative,1994,1990s
+132,Hank Williams,40 Greatest Hits,Country,1978,1970s
+133,Joni Mitchell,Hejira,Alternative,1976,1970s
+134,Fugees,The Score,Hip Hop,1996,1990s
+135,U2,The Joshua Tree,Rock,1987,1980s
+136,Funkadelic,Maggot Brain,R&B,1971,1970s
+137,Adele,21,Pop,2011,2010s
+138,Madonna,The Immaculate Collection,Pop,1990,1990s
+139,Black Sabbath,Paranoid,Alternative,1970,1970s
+140,Bob Marley & The Wailers,Catch A Fire,Reggae,1973,1970s
+141,Pixies,Doolittle,Alternative,1989,1980s
+142,Bruce Springsteen,Born In The USA,Rock,1984,1980s
+143,Velvet Underground,Velvet Underground,Rock,1969,1960s
+144,Led Zeppelin,Physical Graffiti,Rock,1975,1970s
+145,Eminem,The Marshall Mathers LP,Hip Hop,2000,2000s
+146,Blondie,Parallel Lines,Alternative,1978,1970s
+147,Jeff Buckley,Grace,Alternative,1994,1990s
+148,Frank Ocean,Channel Orange,R&B,2012,2010s
+149,John Prine,John Prine,Country,1971,1970s
+150,Bruce Springsteen,Nebraska,Rock,1982,1980s
+151,George Michael,Faith,Pop,1987,1980s
+152,Pretenders,Pretenders,Rock,1979,1970s
+153,PJ Harvey,Rid Of Me,Alternative,1993,1990s
+154,Aretha Franklin,Amazing Grace,R&B,1972,1970s
+155,Jay-Z,The Black Album,Hip Hop,2003,2000s
+156,Replacements,Let It Be,Alternative,1984,1980s
+157,Oasis,(What's The Story) Morning Glory?,Alternative,1995,1990s
+158,Erykah Badu,Mama's Gun,R&B,2000,2000s
+159,Police,Synchronicity,Rock,1983,1980s
+160,Pearl Jam,Ten,Alternative,1991,1990s
+161,"Crosby, Stills & Nash","Crosby, Stills & Nash",Country,1969,1960s
+162,Pulp,Different Class,Alternative,1995,1990s
+163,Bee Gees,Saturday Night Fever,Pop,1977,1970s
+164,Johnny Cash,At Folsom Prison,Country,1968,1960s
+165,REM,Murmur,Alternative,1983,1980s
+166,Buddy Holly & The Crickets,20 Golden Greats,Rock,1978,1970s
+167,Depeche Mode,Violator,Alternative,1990,1990s
+168,Steely Dan,Can't Buy A Thrill,Rock,1972,1970s
+169,Billy Joel,The Stranger,Rock,1977,1970s
+170,Cream,Disraeli Gears,Rock,1967,1960s
+171,Sonic Youth,Daydream Nation,Alternative,1988,1980s
+172,Simon & Garfunkel,Bridge Over Troubled Water,Rock,1970,1970s
+173,Nirvana,In Utero,Alternative,1993,1990s
+174,Jimmy Cliff,The Harder They Come,Reggae,1972,1970s
+175,Kendrick Lamar,Damn,Hip Hop,2017,2010s
+176,Public Enemy,Fear Of A Black Planet,Hip Hop,1990,1990s
+177,Rod Stewart,Every Picture Tells A Story,Rock,1971,1970s
+178,Otis Redding,Otis Blue: Otis Redding Sings Soul,R&B,1965,1960s
+179,Notorious B.I.G.,Life After Death,Hip Hop,1997,1990s
+180,Love,Forever Changes,Rock,1967,1960s
+181,Bob Dylan,Bringing It All Back Home,Rock,1965,1960s
+182,James Taylor,Sweet Baby James,Pop,1970,1970s
+183,D'Angelo,Brown Sugar,R&B,1995,1990s
+184,Cyndi Lauper,She's So Unusual,Pop,1983,1980s
+185,Rolling Stones,Beggars Banquet,Rock,1968,1960s
+186,Red Hot Chili Peppers,Blood Sugar Sex Magik,Alternative,1991,1990s
+187,Ice Cube,Amerikkka's Most Wanted,Hip Hop,1990,1990s
+188,T.Rex,Electric Warrior,Rock,1971,1970s
+189,Sleater-Kinney,Dig Me Out,Alternative,1997,1990s
+190,Who,Tommy,Rock,1969,1960s
+191,Etta James,At Last!,R&B,1960,1960s
+192,Beastie Boys,Licensed To Ill,Hip Hop,1986,1980s
+193,Creedence Clearwater Revival,Willy And The Poor Boys,Country,1969,1960s
+194,Michael Jackson,Bad,Pop,1987,1980s
+195,Leonard Cohen,Songs Of Leonard Cohen,Pop,1967,1960s
+196,Robyn,Body Talk,Pop,2010,2010s
+197,Beatles,Meet The Beatles!,Pop,1964,1960s
+198,B-52's,B-52's,Alternative,1979,1970s
+199,Pavement,Slanted And Enchanted,Alternative,1992,1990s
+200,Sade,Diamond Life,R&B,1984,1980s
+201,A Tribe Called Quest,Midnight Marauders,Hip Hop,1993,1990s
+202,Bjork,Homogenic,Alternative,1997,1990s
+203,Nick Drake,Pink Moon,Country,1972,1970s
+204,Kanye West,Graduation,Hip Hop,2007,2000s
+205,Cat Stevens,Tea For The Tillerman,Rock,1970,1970s
+206,David Bowie,Low,Alternative,1977,1970s
+207,Eagles,Eagles,Rock,1972,1970s
+208,Lil Wayne,Tha Carter III,Hip Hop,2008,2000s
+209,Run DMC,Raising Hell,Hip Hop,1986,1980s
+210,Ray Charles,The Birth Of Soul,R&B,1991,1990s
+211,Joy Division,Unknown Pleasures,Alternative,1979,1970s
+212,Nina Simone,Wild Is The Wind,R&B,1966,1960s
+213,Fiona Apple,The Idler Wheel…,Alternative,2012,2010s
+214,Tom Petty,Wildflowers,Rock,1994,1990s
+215,Grateful Dead,American Beauty,Country,1970,1970s
+216,Elliott Smith,Either/Or,Country,1997,1990s
+217,Oasis,Definitely Maybe,Alternative,1994,1990s
+218,TLC,CrazySexyCool,R&B,1994,1990s
+219,Raekwon,Only Built 4 Cuban Linx…,Hip Hop,1995,1990s
+220,"Crosby, Stills, Nash & Young",déjà vu,Country,1970,1970s
+221,Rage Against The Machine,Rage Against The Machine,Alternative,1992,1990s
+222,Madonna,Ray Of Light,Pop,1998,1990s
+223,John Lennon,Imagine,Pop,1971,1970s
+224,Dixie Chicks,Fly,Country,1999,1990s
+225,Wilco,Yankee Hotel Foxtrot,Alternative,2002,2000s
+226,Derek & The Dominoes,Layla And Other Assorted Love Songs,Rock,1970,1970s
+227,Little Richard,Here's Little Richard,Rock,1957,1950s
+228,De La Soul,De La Soul Is Dead,Hip Hop,1991,1990s
+229,Patsy Cline,The Ultimate Collection,Country,2000,2000s
+230,Rihanna,Anti,R&B,2016,2010s
+231,Tom Petty & The Heartbreakers,Damn The Torpedos,Rock,1979,1970s
+232,John Coltrane,Giant Steps,Jazz,1960,1960s
+233,Tori Amos,Little Earthquakes,Alternative,1992,1990s
+234,Black Sabbath,Master Of Reality,Alternative,1971,1970s
+235,Metallica,Metallica,Alternative,1991,1990s
+236,Daft Punk,Discovery,Electronica,2001,2000s
+237,Willie Nelson,Red Headed Stranger,Country,1975,1970s
+238,Kraftwerk,Trans Europa Express,Electronica,1977,1970s
+239,Boogie Down Productions,Criminal Minded,Hip Hop,1987,1980s
+240,Sam Cooke,Live At Harlem Square Club 1963,R&B,1963,1960s
+241,Massive Attack,Blue Lines,Alternative,1991,1990s
+242,Velvet Underground,Loaded,Rock,1970,1970s
+243,Zombies,Odessey And Oracle,Rock,1968,1960s
+244,Kanye West,808s & Heartbreaks,Hip Hop,2008,2000s
+245,Cocteau Twins,Heaven Or Las Vegas,Alternative,1990,1990s
+246,LL Cool J,Mama Said Knock You Out,Hip Hop,1990,1990s
+247,Sade,Love Deluxe,R&B,1992,1990s
+248,Green Day,American Idiot,Alternative,2004,2000s
+249,Whitney Houston,Whitney Houston,Pop,1985,1980s
+250,Buzzcocks,Singles Going Steady,Alternative,1979,1970s
+251,Elton John,Honky Chateau,Pop,1972,1970s
+252,Devo,Q: Are We Not Men? A: We Are Devo!,Alternative,1978,1970s
+253,Pink Floyd,The Piper At The Gates Of Dawn,Rock,1967,1960s
+254,Herbie Hancock,Head Hunters,Jazz,1973,1970s
+255,Bob Dylan,The Freewheelin' Bob Dylan,Rock,1963,1960s
+256,Tracy Chapman,Tracy Chapman,Rock,1988,1980s
+257,Dolly Parton,Coat Of Many Colors,Country,1971,1970s
+258,Joni Mitchell,The Hissing Of Summer Lawns,Alternative,1975,1970s
+259,Janis Joplin,Pearl,Rock,1971,1970s
+260,Slits,Cut,Alternative,1979,1970s
+261,Beastie Boys,Check Your Head,Hip Hop,1992,1990s
+262,New Order,"Power, Corruption & Lies",Alternative,1983,1980s
+263,Beatles,A Hard Day's Night,Pop,1964,1960s
+264,Pink Floyd,Wish You Were Here,Rock,1975,1970s
+265,Pavement,Wowee Zowee,Alternative,1995,1990s
+266,Beatles,Help!,Pop,1965,1960s
+267,Minutemen,Double Nickels On The Dime,Alternative,1984,1980s
+268,Randy Newman,Sail Away,Rock,1972,1970s
+269,Kanye West,Yeezus,Hip Hop,2013,2010s
+270,Kacey Musgraves,Golden Hour,Country,2018,2010s
+271,Mary J Blige,What's The 411?,R&B,1992,1990s
+272,Velvet Underground,White Light/White Heat,Rock,1968,1960s
+273,Gang Of Four,Entertainment!,Alternative,1979,1970s
+274,Byrds,Sweetheart Of The Rodeo,Country,1968,1960s
+275,Curtis Mayfield,Curtis,R&B,1970,1970s
+276,Radiohead,The Bends,Alternative,1995,1990s
+277,Alicia Keys,The Diary Of Alicia Keys,R&B,2003,2000s
+278,Led Zeppelin,Houses Of The Holy,Rock,1973,1970s
+279,Nirvana,MTV Unplugged In New York,Alternative,1994,1990s
+280,50 Cent,Get Rich Or Die Tryin',Hip Hop,2003,2000s
+281,Harry Nilsson,Nilsson Schmilsson,Rock,1971,1970s
+282,Frank Sinatra,In The Wee Small Hours,Easy Listening,1955,1950s
+283,Donna Summer,Bad Girls,Pop,1979,1970s
+284,Merle Haggard,Down Every Road 1962-1994,Pop,1996,1990s
+285,Big Star,Third,Rock,1978,1970s
+286,Red Hot Chili Peppers,Californication,Alternative,1999,1990s
+287,Byrds,Mr Tambourine Man,Rock,1965,1960s
+288,Modern Lovers,Modern Lovers,Alternative,1976,1970s
+289,Bjork,Post,Alternative,1995,1990s
+290,Outkast,Speakerboxxx/The Love Below,Hip Hop,2003,2000s
+291,Destiny's Child,The Writing's On The Wall,R&B,1999,1990s
+292,Van Halen,Van Halen,Rock,1978,1970s
+293,Breeders,Last Splash,Alternative,1993,1990s
+294,Weezer,Weezer,Alternative,1994,1990s
+295,Daft Punk,Random Access Memories,Electronica,2013,2010s
+296,Neil Young & Crazy Horse,Rust Never Sleeps,Rock,1979,1970s
+297,Peter Gabriel,So,Rock,1986,1980s
+298,Tom Petty,Full Moon Fever,Rock,1989,1980s
+299,BB King,Live At The Regal,Blues,1965,1960s
+300,Shania Twain,Come On Over,Country,1997,1990s
+301,New York Dolls,New York Dolls,Alternative,1973,1970s
+302,Neil Young,Tonight's The Night,Rock,1975,1970s
+303,Abba,The Definitive Collection,Pop,2001,2000s
+304,Bill Withers,Just As I Am,R&B,1971,1970s
+305,Kiss,Alive!,Rock,1975,1970s
+306,Al Green,I'm Still In Love With You,R&B,1972,1970s
+307,Sam Cooke,Portait Of A Legend 1951-1964,R&B,2003,2000s
+308,Brian Eno,Here Come The Warm Jets,Rock,1974,1970s
+309,Joy Division,Closer,Alternative,1980,1980s
+310,Wire,Pink Flag,Alternative,1977,1970s
+311,Neil Young,On The Beach,Rock,1974,1970s
+312,Solange,A Seat At The Table,R&B,2016,2010s
+313,PJ Harvey,"Stories From The City, Stories From The Sea",Alternative,2000,2000s
+314,Aaliyah,One In A Million,R&B,1996,1990s
+315,Rosalia,El Mal Querer,World,2018,2010s
+316,Who,The Who Sell Out,Rock,1967,1960s
+317,Billie Holiday,Lady In Satin,Jazz,1958,1950s
+318,Janet Jackson,The Velvet Rope,Pop,1997,1990s
+319,Stone Roses,Stone Roses,Alternative,1989,1980s
+320,X,Los Angeles,Alternative,1980,1980s
+321,Lana Del Rey,Norman Fucking Rockwell!,Pop,2019,2010s
+322,Elvis Presley,From Elvis In Memphis,Pop,1969,1960s
+323,Clash,Sandinista!,Alternative,1980,1980s
+324,Coldplay,A Rush Of Blood To The Head,Alternative,2002,2000s
+325,Jerry Lee Lewis,"All Killer, No Filler: The Anthology",Pop,1993,1990s
+326,Prince,Dirty Mind,Alternative,1980,1980s
+327,Who,Live At Leeds,Rock,1970,1970s
+328,Vampire Weekend,Modern Vampires Of The City,Rock,2013,2010s
+329,DJ Shadow,Entroducing,Hip Hop,1996,1990s
+330,Rolling Stones,Aftermath,Rock,1966,1960s
+331,Madonna,Like A Prayer,Pop,1989,1980s
+332,Elvis Presley,Elvis Presley,Pop,1956,1950s
+333,Bill Withers,Still Bill,R&B,1972,1970s
+334,Santana,Abraxas,Rock,1970,1970s
+335,Bob Dylan & The Band,The Basement Tapes,Rock,1975,1970s
+336,Roxy Music,Avalon,Pop,1982,1980s
+337,Bob Dylan,John Wesley Harding,Rock,1967,1960s
+338,Eno,Another Green World,Rock,1975,1970s
+339,Janet Jackson,Rhythm Nation 1814,Pop,1989,1980s
+340,Snoop Doggy Dogg,Doggystyle,Hip Hop,1993,1990s
+341,Smashing Pumpkins,Siamese Dream,Alternative,1993,1990s
+342,Beatles,Let It Be,Pop,1970,1970s
+343,Sly & The Family Stone,Greatest Hits,R&B,1970,1970s
+344,Toots & The Maytals,Funky Kingston,Reggae,1973,1970s
+345,Bruce Springsteen,"The Wild, The Innocent & The E Street Shuffle",Rock,1973,1970s
+346,Arctic Monkeys,AM,Alternative,2013,2010s
+347,GZA,Liquid Swords,Hip Hop,1995,1990s
+348,Gillian Welch,Time (The Revelator),Country,2001,2000s
+349,MC5,Kick Out The Jams,Rock,1969,1960s
+350,Stevie Wonder,Music Of My Mind,R&B,1972,1970s
+351,Roxy Music,For Your Pleasure,Pop,1973,1970s
+352,Eminem,The Slim Shady LP,Hip Hop,1999,1990s
+353,Cars,Cars,Rock,1978,1970s
+354,X-Ray Spex,Germ Free Adolescents,Alternative,1978,1970s
+355,Black Sabbath,Black Sabbath,Alternative,1970,1970s
+356,Dr John,Gris-Gris,R&B,1968,1960s
+357,Tom Waits,Rain Dogs,Rock,1985,1980s
+358,Sonic Youth,Goo,Alternative,1990,1990s
+359,Big Star,Radio City,Pop,1974,1970s
+360,Funkadelic,One Nation Under A Groove,R&B,1978,1970s
+361,My Chemical Romance,The Black Parade,Alternative,2006,2000s
+362,Luther Vandross,Never Too Much,R&B,1981,1980s
+363,Parliament,Mothership Connection,Alternative,1975,1970s
+364,Talking Heads,More Songs About Buildings And Food,Alternative,1978,1970s
+365,Madvillian,Madvillainy,Hip Hop,2004,2000s
+366,Aerosmith,Rocks,Rock,1976,1970s
+367,Drake,If You're Reading This It's Too Late,Hip Hop,2015,2010s
+368,George Harrison,All Things Must Pass,Pop,1970,1970s
+369,Mobb Deep,The Infamous,Hip Hop,1995,1990s
+370,Lil Wayne,Tha Carter II,Hip Hop,2005,2000s
+371,Temptations,Anthology,R&B,1973,1970s
+372,Big Brother & The Holding Company,Cheap Thrills,Rock,1968,1960s
+373,Isaac Hayes,Hot Buttered Soul,R&B,1969,1960s
+374,Robert Johnson,King Of The Delta Blues Singers,Blues,1961,1960s
+375,Green Day,Dookie,Alternative,1994,1990s
+376,Neutral Milk Hotel,In The Aeroplane Over The Sea,Alternative,1998,1990s
+377,Yeah Yeah Yeahs,Fever To Tell,Alternative,2003,2000s
+378,Run DMC,Run DMC,Hip Hop,1984,1980s
+379,Rush,Moving Pictures,Alternative,1981,1980s
+380,Charles Mingus,Mingus Ah Um,Pop,1959,1950s
+381,Lynyrd Skynyrd,Pronounced Leh-nerd Skin-nerd,Rock,1973,1970s
+382,Tame Impala,Currents,Alternative,2015,2010s
+383,Massive Attack,Mezzanine,Alternative,1998,1990s
+384,Kinks,The Kinks Are The Village Green Preservation Society,Rock,1968,1960s
+385,Ramones,Rocket To Russia,Rock,1977,1970s
+386,J Dilla,Donuts,Hip Hop,2006,2000s
+387,Radiohead,In Rainbows,Alternative,2007,2000s
+388,Aretha Franklin,"Young, Gifted And Black",R&B,1972,1970s
+389,Mariah Carey,The Emancipation Of Mimi,R&B,2005,2000s
+390,Pixies,Surfer Rosa,Alternative,1988,1980s
+391,Kelis,Kaleidoscope,R&B,1999,1990s
+392,Ike & Tina Turner,Proud Mary: The Best Of Ike & Tina Turner,Pop,1991,1990s
+393,Taylor Swift,1989,Pop,2014,2010s
+394,Diana Ross,Diana,R&B,1980,1980s
+395,D'Angelo & The Vanguard,Black Messiah,R&B,2014,2010s
+396,Todd Rundgren,Something/Anything?,Rock,1972,1970s
+397,Billie Eilish,"When We All Fall Asleep, Where Do We Go?",Alternative,2019,2010s
+398,Raincoats,Raincoats,Alternative,1979,1970s
+399,Brian Wilson,Smile,Rock,2004,2000s
+400,Go-Go's,Beauty And The Beat,Pop,1981,1980s
+401,Blondie,Blondie,Alternative,1976,1970s
+402,Fela Kuti & Africa 70,Expensive Shit,Afrobeat,1975,1970s
+403,Ghostface Killah,Supreme Clientele,Hip Hop,2000,2000s
+404,Anita Baker,Rapture,R&B,1986,1980s
+405,Various Artists,"Nuggets: Original Artyfacts From The First Psychedelic Era, 1965-1968",Rock,1972,1970s
+406,Magnetic Fields,69 Love Songs,Alternative,1999,1990s
+407,Neil Young & Crazy Horse,Everybody Knows This Is Nowhere,Rock,1969,1960s
+408,Motorhead,Ace Of Spades,Alternative,1980,1980s
+409,Grateful Dead,Workingman's Dead,Rock,1970,1970s
+410,Beach Boys,Wild Honey,Rock,1967,1960s
+411,Bob Dylan,Love And Theft,Rock,2001,2000s
+412,Smokey Robinson & The Miracles,Going To A Go-Go,R&B,1965,1960s
+413,Creedence Clearwater Revival,Cosmo's Factory,Rock,1970,1970s
+414,Chic,Risque,Electronica,1979,1970s
+415,Meters,Look-Ka Py Py,R&B,1969,1960s
+416,Roots,Things Fall Apart,Hip Hop,1999,1990s
+417,Ornette Coleman,The Shape Of Jazz To Come,Jazz,1959,1950s
+418,Dire Straits,Brothers In Arms,Rock,1985,1980s
+419,Eric Church,Chief,Country,2011,2010s
+420,"Earth, Wind & Fire",That's The Way Of The World,R&B,1975,1970s
+421,M.I.A.,Arular,Electronica,2005,2000s
+422,Marvin Gaye,Let's Get It On,R&B,1973,1970s
+423,Yo La Tengo,I Can Hear The Heart Beating As One,Alternative,1997,1970s
+424,Beck,Odelay,Alternative,1996,1990s
+425,Paul Simon,Paul Simon,Rock,1972,1970s
+426,Lucinda Williams,Lucinda Williams,Country,1988,1980s
+427,Al Green,Call Me,R&B,1973,1970s
+428,Husker Du,New Day Rising,Alternative,1985,1980s
+429,Four Tops,Reach Out,R&B,1967,1960s
+430,Elvis Costello,My Aim Is True,Rock,1977,1970s
+431,Los Lobos,How Will The Wolf Survive,Rock,1984,1980s
+432,Usher,Confessions,R&B,2004,2000s
+433,LCD Soundsystem,Sound Of Silver,Alternative,2007,2000s
+434,Pavement,"Crooked Rain, Crooked Rain",Alternative,1994,1990s
+435,Pet Shop Boys,Actually,Pop,1987,1980s
+436,2Pac,All Eyez On Me,Hip Hop,1996,1990s
+437,Primal Scream,Screamadelica,Alternative,1991,1990s
+438,Blur,Parklife,Alternative,1994,1990s
+439,James Brown,Sex Machine,R&B,1970,1970s
+440,Loretta Lynn,Coal Miner's Daughter,Country,1970,1970s
+441,Britney Spears,Blackout,Pop,2007,2000s
+442,Weeknd,Beauty Behind The Madness,R&B,2015,2010s
+443,David Bowie,Scary Monsters (And Super Creeps),Alternative,1980,1980s
+444,Fiona Apple,Extraordinary Machine,Alternative,2005,2000s
+445,Yes,Close To The Edge,Rock,1972,1970s
+446,Alice Coltrane,Journey To Satchindananda,Jazz,1971,1970s
+447,Bad Bunny,X 100PRE,Reggae,2018,2010s
+448,Otis Redding,Complete & Unbelievable: The Otis Redding Dictionary Of Soul,R&B,1966,1960s
+449,White Stripes,Elephant,Alternative,2003,2000s
+450,Paul McCartney & Linda McCartney,Ram,Pop,1971,1970s
+451,Roberta Flack,First Take,R&B,1969,1960s
+452,Diana Ross & The Supremes,Anthology,R&B,2001,2000s
+453,Nine Inch Nails,Pretty Hate Machine,Alternative,1989,1980s
+454,Can,Ege Bamyasi,Rock,1972,1970s
+455,Bo Diddley,Bo Diddley/Go Bo Diddley,Rock,1959,1950s
+456,Al Green,Greatest Hits,R&B,1975,1970s
+457,Sinead O'Connor,I Do Not Want What I Haven't Got,Alternative,1990,1990s
+458,Jason Isbell,Southeastern,Country,2013,2010s
+459,Kid Cudi,Man On The Moon: The End Of Day,Hip Hop,2009,2000s
+460,Lorde,Melodrama,Pop,2017,2010s
+461,Bon Iver,"For Emma, Forever Ago",Alternative,2007,2000s
+462,Flying Burrito Brothers,The Gilded Palace Of Sin,Country,1969,1960s
+463,Laura Nyro,Eli And The Thirteenth Confession,Pop,1968,1960s
+464,Isley Brothers,3 + 3,R&B,1973,1970s
+465,King Sunny Ade,The Best Of The Classic Years,World,2003,2000s
+466,Beach Boys,The Beach Boys Today!,Rock,1965,1960s
+467,Maxwell,BlackSummer'sNight,R&B,2009,2000s
+468,Rolling Stones,Some Girls,Rock,1978,1970s
+469,Manu Chao,Clandestino,World,1998,1990s
+470,Juvenile,400 Degreez,Hip Hop,1998,1990s
+471,Jefferson Airplane,Surrealistic Pillow,Rock,1967,1960s
+472,SZA,Ctrl,R&B,2017,2010s
+473,Daddy Yankee,Barrio Fino,World,2004,2000s
+474,Big Star,#1 Record,Rock,1972,1970s
+475,Sheryl Crow,Sheryl Crow,Alternative,1996,1990s
+476,Sparks,Kimono My House,Rock,1974,1970s
+477,Howlin' Wolf,Moanin' In The Moonlight,Blues,1959,1950s
+478,Kinks,Something Else By The Kinks,Rock,1967,1960s
+479,Selena,Amor Prohibido,World,1994,1990s
+480,Miranda Lambert,The Weight Of These Wings,Country,2016,2010s
+481,Belle & Sebastian,If You're Feeling Sinister,Alternative,1996,1990s
+482,Pharcyde,Bizarre Ride II The Pharcyde,Hip Hop,1992,1990s
+483,Muddy Waters,The Anthology,Blues,2001,2000s
+484,Lady Gaga,Born This Way,Pop,2011,2010s
+485,Richard & Linda Thompson,I Want To See The Bright Lights Tonight,Rock,1974,1970s
+486,John Mayer,Continuum,Rock,2006,2000s
+487,Black Flag,Damaged,Alternative,1981,1980s
+488,Stooges,Stooges,Rock,1969,1960s
+489,Phil Spector,Back To Mono (1958-1969),Pop,1991,1990s
+490,Linda Ronstadt,Heart Like A Wheel,Rock,1974,1970s
+491,Harry Styles,Fine Line,Pop,2019,2010s
+492,Bonnie Raitt,Nick Of Time,Rock,1989,1980s
+493,Marvin Gaye,"Here, My Dear",R&B,1978,1970s
+494,Ronettes,Presenting The Fabulous Ronettes Featuring Veronica,R&B,1964,1960s
+495,Boyz II Men,II,R&B,1994,1990s
+496,Shakira,Donde Estan Los Ladrones?,World,1998,1990s
+497,Various Artists,The Indestructible Beat Of Soweto,World,1985,1980s
+498,Suicide,Suicide,Alternative,1977,1970s
+499,Rufus & Chaka Khan,Ask Rufus,R&B,1977,1970s
+500,Arcade Fire,Funeral,Alternative,2004,2000s
